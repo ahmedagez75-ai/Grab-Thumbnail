@@ -1,0 +1,6 @@
+{
+  "name": "ThumbGrab",
+  "description": "YouTube Thumbnail Downloader - تحميل الصور المصغرة من يوتيوب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
